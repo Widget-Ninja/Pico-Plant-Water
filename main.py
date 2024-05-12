@@ -5,6 +5,20 @@
 from machine import ADC, Pin, SPI
 import framebuf
 import utime
+import io, os
+import time
+
+class logToFile(io.IOBase):
+    def __init__(self):
+        pass
+ 
+    def write(self, data):
+        # logfile.txt = 'info_{}.log'.format(strftime('%d_%m_%Y_%T'))
+        with open("logfile.txt", mode="a") as f:
+            f.write("Timestamp: " + "%s" % utime.localtime)
+            f.write(data)
+        return len(data)
+
  
 # use variables instead of numbers:
 soil = ADC(Pin(26)) # Soil moisture PIN reference
@@ -14,7 +28,7 @@ pump = Pin(16, Pin.OUT)
 min_moisture=19200
 max_moisture=49300
  
-readDelay = 10 # delay between readings
+readDelay = 900 # delay between readings
 
 # *****************************************************************************
 # * | File        :   Pico_ePaper-2.13_V3.py
@@ -202,11 +216,11 @@ class EPD_2in13_V3_Portrait(framebuf.FrameBuffer):
     parameter:
     '''
     def ReadBusy(self):
-        print('busy')
+        # print('busy')
         self.delay_ms(10)
         while(self.digital_read(self.busy_pin) == 1):      # 0: idle, 1: busy
             self.delay_ms(10)    
-        print('busy release')
+        # print('busy release')
     
     '''
     function : Turn On Display
@@ -475,11 +489,11 @@ class EPD_2in13_V3_Landscape(framebuf.FrameBuffer):
         self.digital_write(self.cs_pin, 1)
 
     def ReadBusy(self):
-        print('busy')
+        # print('busy')
         self.delay_ms(10)
         while(self.digital_read(self.busy_pin) == 1):      # 0: idle, 1: busy
             self.delay_ms(10)    
-        print('busy release')
+        # print('busy release')
 
     def TurnOnDisplay(self):
         self.send_command(0x22)  # Display Update Control
@@ -680,11 +694,22 @@ while True:
 #        epd.Clear()
 #        epd.delay_ms(2000)
 #        epd.sleep()
-    
-    utime.sleep(readDelay) # set a delay between readings
-    
+       
     if moisture < 80 :
+        # now your console text output is saved into file
+        os.dupterm(logToFile())
+ 
         pump.value(1)
+        print("Time: %s" %str(time.localtime))
+        print("Time: %s" %str(time.gmtime))
         print("Pump Triggered")
+        utime.sleep(60)
+        pump.value(0)
+        print("Pump deactivated")
+
+        # disable logging to file
+        os.dupterm(None)
     else :
         pump.value(0)
+        
+    utime.sleep(readDelay) # set a delay between readings
