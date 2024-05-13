@@ -2,7 +2,7 @@
 35
 36
 # import required modules
-from machine import ADC, Pin, SPI
+from machine import ADC, Pin, SPI, RTC
 import framebuf
 import utime
 import io, os
@@ -13,13 +13,10 @@ class logToFile(io.IOBase):
         pass
  
     def write(self, data):
-        # logfile.txt = 'info_{}.log'.format(strftime('%d_%m_%Y_%T'))
         with open("logfile.txt", mode="a") as f:
-            f.write("Timestamp: " + "%s" % utime.localtime)
             f.write(data)
         return len(data)
 
- 
 # use variables instead of numbers:
 soil = ADC(Pin(26)) # Soil moisture PIN reference
 pump = Pin(16, Pin.OUT)
@@ -29,6 +26,10 @@ min_moisture=19200
 max_moisture=49300
  
 readDelay = 900 # delay between readings
+
+rtc = RTC()
+print(rtc.datetime())
+
 
 # *****************************************************************************
 # * | File        :   Pico_ePaper-2.13_V3.py
@@ -58,10 +59,6 @@ readDelay = 900 # delay between readings
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
 #
-
-from machine import Pin, SPI
-import framebuf
-import utime
 
 WF_PARTIAL_2IN13_V3= [
     0x0,0x40,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,
@@ -660,51 +657,23 @@ while True:
     
         epd.fill(0xff)
         epd.text("Soil Moisture %", 0, 10, 0x00)
-#    	 epd.text("ePaper-2.13_V3", 0, 20, 0x00)
         format_moisture = "{:.2f}".format(moisture)
         epd.text(format_moisture, 0, 30, 0x00)
-#    	 epd.text("Hello World", 0, 40, 0x00)
         epd.display(epd.buffer)
         epd.display(epd.buffer)
-#    	 epd.delay_ms(2000)
-    
-#        epd.vline(5, 55, 60, 0x00)
-#        epd.vline(100, 55, 60, 0x00)
-#        epd.hline(5, 55, 95, 0x00)
-#        epd.hline(5, 115, 95, 0x00)
-#        epd.line(5, 55, 100, 115, 0x00)
-#        epd.line(100, 55, 5, 115, 0x00)
-#        epd.display(epd.buffer)
-#        epd.delay_ms(2000)
-    
-#        epd.rect(130, 10, 40, 80, 0x00)
-#        epd.fill_rect(190, 10, 40, 80, 0x00)
-#        epd.Display_Base(epd.buffer)
-#        epd.delay_ms(2000)
-    
-#        epd.init()
-#        for i in range(0, 10):
-#            epd.fill_rect(175, 105, 10, 10, 0xff)
-#    epd.text(str(moisture), 0, 50, 0x00)
-#    epd.display_Partial(epd.buffer)
-#    epd.display_Partial(epd.buffer)
-
-#        print("sleep")
-#        epd.init()
-#        epd.Clear()
-#        epd.delay_ms(2000)
-#        epd.sleep()
        
     if moisture < 80 :
         # now your console text output is saved into file
         os.dupterm(logToFile())
  
+        # print values
+        print("moisture: " + "%.2f" % moisture +"% (adc: "+str(soil.read_u16())+")")
         pump.value(1)
-        print("Time: %s" %str(time.localtime))
-        print("Time: %s" %str(time.gmtime))
+        print("Time: ", rtc.datetime())
         print("Pump Triggered")
         utime.sleep(60)
         pump.value(0)
+        print("Time: ", rtc.datetime())
         print("Pump deactivated")
 
         # disable logging to file
