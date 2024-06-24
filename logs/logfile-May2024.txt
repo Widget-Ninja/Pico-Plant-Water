@@ -1,0 +1,702 @@
+moisture: 55.11% (adc: 52236)
+Time:  (2021, 1, 1, 4, 0, 0, 5, 0)
+Pump Triggered
+moisture: 75.69% (adc: 34504)
+Time:  (2021, 1, 1, 4, 0, 0, 11, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 0, 1, 11, 0)
+Pump deactivated
+moisture: 48.31% (adc: 34632)
+Time:  (2021, 1, 1, 4, 0, 16, 18, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 0, 17, 18, 0)
+Pump deactivated
+moisture: 48.31% (adc: 34536)
+Time:  (2021, 1, 1, 4, 0, 32, 25, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 0, 33, 25, 0)
+Pump deactivated
+moisture: 48.94% (adc: 34520)
+Time:  (2021, 1, 1, 4, 0, 48, 35, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 0, 49, 36, 0)
+Pump deactivated
+moisture: 47.67% (adc: 34472)
+Time:  (2021, 1, 1, 4, 1, 4, 47, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 1, 5, 48, 0)
+Pump deactivated
+moisture: 49.10% (adc: 34440)
+Time:  (2021, 1, 1, 4, 1, 20, 59, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 1, 22, 0, 0)
+Pump deactivated
+moisture: 49.16% (adc: 34488)
+Time:  (2021, 1, 1, 4, 1, 37, 11, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 1, 38, 12, 0)
+Pump deactivated
+moisture: 47.88% (adc: 34888)
+Time:  (2021, 1, 1, 4, 1, 53, 23, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 1, 54, 24, 0)
+Pump deactivated
+moisture: 47.40% (adc: 34888)
+Time:  (2021, 1, 1, 4, 2, 9, 35, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 2, 10, 36, 0)
+Pump deactivated
+moisture: 49.69% (adc: 34264)
+Time:  (2021, 1, 1, 4, 2, 25, 47, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 2, 26, 48, 0)
+Pump deactivated
+moisture: 49.79% (adc: 34088)
+Time:  (2021, 1, 1, 4, 2, 41, 59, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 2, 43, 0, 0)
+Pump deactivated
+moisture: 47.88% (adc: 34104)
+Time:  (2021, 1, 1, 4, 2, 58, 11, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 2, 59, 12, 0)
+Pump deactivated
+moisture: 48.25% (adc: 34488)
+Time:  (2021, 1, 1, 4, 3, 14, 23, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 3, 15, 24, 0)
+Pump deactivated
+moisture: 48.09% (adc: 34728)
+Time:  (2021, 1, 1, 4, 3, 30, 35, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 3, 31, 36, 0)
+Pump deactivated
+moisture: 49.26% (adc: 34744)
+Time:  (2021, 1, 1, 4, 3, 46, 47, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 3, 47, 49, 0)
+Pump deactivated
+moisture: 49.26% (adc: 34632)
+Time:  (2021, 1, 1, 4, 4, 3, 0, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 4, 4, 1, 0)
+Pump deactivated
+moisture: 49.05% (adc: 33720)
+Time:  (2021, 1, 1, 4, 4, 19, 12, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 4, 20, 13, 0)
+Pump deactivated
+moisture: 50.33% (adc: 34088)
+Time:  (2021, 1, 1, 4, 4, 35, 24, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 4, 36, 26, 0)
+Pump deactivated
+moisture: 52.35% (adc: 33480)
+Time:  (2021, 1, 1, 4, 4, 51, 37, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 4, 52, 38, 0)
+Pump deactivated
+moisture: 56.60% (adc: 32183)
+Time:  (2021, 1, 1, 4, 5, 7, 49, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 5, 8, 50, 0)
+Pump deactivated
+moisture: 55.49% (adc: 31927)
+Time:  (2021, 1, 1, 4, 5, 24, 2, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 5, 25, 3, 0)
+Pump deactivated
+moisture: 59.21% (adc: 31527)
+Time:  (2021, 1, 1, 4, 5, 40, 14, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 5, 41, 15, 0)
+Pump deactivated
+moisture: 60.32% (adc: 31111)
+Time:  (2021, 1, 1, 4, 5, 56, 26, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 5, 57, 28, 0)
+Pump deactivated
+moisture: 59.05% (adc: 31415)
+Time:  (2021, 1, 1, 4, 6, 12, 39, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 6, 13, 40, 0)
+Pump deactivated
+moisture: 61.65% (adc: 30727)
+Time:  (2021, 1, 1, 4, 6, 28, 52, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 6, 29, 53, 0)
+Pump deactivated
+moisture: 63.67% (adc: 30743)
+Time:  (2021, 1, 1, 4, 6, 45, 4, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 6, 46, 6, 0)
+Pump deactivated
+moisture: 62.08% (adc: 30551)
+Time:  (2021, 1, 1, 4, 7, 1, 17, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 7, 2, 18, 0)
+Pump deactivated
+moisture: 64.04% (adc: 29831)
+Time:  (2021, 1, 1, 4, 7, 17, 30, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 7, 18, 31, 0)
+Pump deactivated
+moisture: 63.25% (adc: 30183)
+Time:  (2021, 1, 1, 4, 7, 33, 42, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 7, 34, 44, 0)
+Pump deactivated
+moisture: 66.38% (adc: 29751)
+Time:  (2021, 1, 1, 4, 7, 49, 55, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 7, 50, 56, 0)
+Pump deactivated
+moisture: 64.68% (adc: 29223)
+Time:  (2021, 1, 1, 4, 8, 6, 6, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 8, 7, 7, 0)
+Pump deactivated
+moisture: 66.38% (adc: 28935)
+Time:  (2021, 1, 1, 4, 8, 22, 18, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 8, 23, 19, 0)
+Pump deactivated
+moisture: 68.40% (adc: 28630)
+Time:  (2021, 1, 1, 4, 8, 38, 30, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 8, 39, 31, 0)
+Pump deactivated
+moisture: 69.68% (adc: 28086)
+Time:  (2021, 1, 1, 4, 8, 54, 42, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 8, 55, 43, 0)
+Pump deactivated
+moisture: 69.31% (adc: 28070)
+Time:  (2021, 1, 1, 4, 9, 10, 54, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 9, 11, 55, 0)
+Pump deactivated
+moisture: 67.71% (adc: 28807)
+Time:  (2021, 1, 1, 4, 9, 27, 6, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 9, 28, 7, 0)
+Pump deactivated
+moisture: 68.46% (adc: 28743)
+Time:  (2021, 1, 1, 4, 9, 43, 18, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 9, 44, 19, 0)
+Pump deactivated
+moisture: 68.72% (adc: 28598)
+Time:  (2021, 1, 1, 4, 9, 59, 30, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 10, 0, 31, 0)
+Pump deactivated
+moisture: 69.15% (adc: 27878)
+Time:  (2021, 1, 1, 4, 10, 15, 42, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 10, 16, 43, 0)
+Pump deactivated
+moisture: 69.26% (adc: 28470)
+Time:  (2021, 1, 1, 4, 10, 31, 54, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 10, 32, 55, 0)
+Pump deactivated
+moisture: 71.59% (adc: 28086)
+Time:  (2021, 1, 1, 4, 10, 48, 6, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 10, 49, 8, 0)
+Pump deactivated
+moisture: 70.48% (adc: 27734)
+Time:  (2021, 1, 1, 4, 11, 4, 19, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 11, 5, 20, 0)
+Pump deactivated
+moisture: 71.01% (adc: 28134)
+Time:  (2021, 1, 1, 4, 11, 20, 31, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 11, 21, 32, 0)
+Pump deactivated
+moisture: 70.80% (adc: 27702)
+Time:  (2021, 1, 1, 4, 11, 36, 43, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 11, 37, 44, 0)
+Pump deactivated
+moisture: 74.04% (adc: 27702)
+Time:  (2021, 1, 1, 4, 11, 52, 56, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 11, 53, 57, 0)
+Pump deactivated
+moisture: 73.19% (adc: 26838)
+Time:  (2021, 1, 1, 4, 12, 9, 8, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 12, 10, 9, 0)
+Pump deactivated
+moisture: 73.35% (adc: 26854)
+Time:  (2021, 1, 1, 4, 12, 25, 20, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 12, 26, 22, 0)
+Pump deactivated
+moisture: 71.81% (adc: 27734)
+Time:  (2021, 1, 1, 4, 12, 41, 33, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 12, 42, 34, 0)
+Pump deactivated
+moisture: 72.50% (adc: 27734)
+Time:  (2021, 1, 1, 4, 12, 57, 45, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 12, 58, 46, 0)
+Pump deactivated
+moisture: 74.20% (adc: 27478)
+Time:  (2021, 1, 1, 4, 13, 13, 58, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 13, 14, 59, 0)
+Pump deactivated
+moisture: 76.01% (adc: 26470)
+Time:  (2021, 1, 1, 4, 13, 30, 10, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 13, 31, 11, 0)
+Pump deactivated
+moisture: 73.14% (adc: 27446)
+Time:  (2021, 1, 1, 4, 13, 46, 23, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 13, 47, 24, 0)
+Pump deactivated
+moisture: 72.50% (adc: 27462)
+Time:  (2021, 1, 1, 4, 14, 2, 35, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 14, 3, 37, 0)
+Pump deactivated
+moisture: 75.69% (adc: 26070)
+Time:  (2021, 1, 1, 4, 14, 18, 48, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 14, 19, 49, 0)
+Pump deactivated
+moisture: 73.61% (adc: 27334)
+Time:  (2021, 1, 1, 4, 14, 35, 0, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 14, 36, 2, 0)
+Pump deactivated
+moisture: 73.77% (adc: 26710)
+Time:  (2021, 1, 1, 4, 14, 51, 13, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 14, 52, 15, 0)
+Pump deactivated
+moisture: 75.85% (adc: 26198)
+Time:  (2021, 1, 1, 4, 15, 7, 26, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 15, 8, 27, 0)
+Pump deactivated
+moisture: 74.47% (adc: 26118)
+Time:  (2021, 1, 1, 4, 15, 23, 39, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 15, 24, 40, 0)
+Pump deactivated
+moisture: 76.75% (adc: 26582)
+Time:  (2021, 1, 1, 4, 15, 39, 51, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 15, 40, 52, 0)
+Pump deactivated
+moisture: 77.81% (adc: 25894)
+Time:  (2021, 1, 1, 4, 15, 56, 3, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 15, 57, 4, 0)
+Pump deactivated
+moisture: 78.24% (adc: 26390)
+Time:  (2021, 1, 1, 4, 16, 12, 15, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 16, 13, 16, 0)
+Pump deactivated
+moisture: 75.00% (adc: 26582)
+Time:  (2021, 1, 1, 4, 16, 28, 27, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 16, 29, 28, 0)
+Pump deactivated
+moisture: 78.66% (adc: 25254)
+Time:  (2021, 1, 1, 4, 16, 44, 38, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 16, 45, 40, 0)
+Pump deactivated
+moisture: 76.96% (adc: 26310)
+Time:  (2021, 1, 1, 4, 17, 0, 50, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 17, 1, 52, 0)
+Pump deactivated
+moisture: 78.61% (adc: 25158)
+Time:  (2021, 1, 1, 4, 17, 17, 3, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 17, 18, 4, 0)
+Pump deactivated
+moisture: 76.49% (adc: 26198)
+Time:  (2021, 1, 1, 4, 17, 48, 24, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 17, 49, 25, 0)
+Pump deactivated
+moisture: 77.44% (adc: 26070)
+Time:  (2021, 1, 1, 4, 18, 4, 36, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 18, 5, 38, 0)
+Pump deactivated
+moisture: 79.83% (adc: 25014)
+Time:  (2021, 1, 1, 4, 18, 35, 58, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 18, 36, 59, 0)
+Pump deactivated
+moisture: 78.19% (adc: 25526)
+Time:  (2021, 1, 1, 4, 18, 52, 10, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 18, 53, 12, 0)
+Pump deactivated
+moisture: 78.40% (adc: 26006)
+Time:  (2021, 1, 1, 4, 19, 8, 23, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 19, 9, 24, 0)
+Pump deactivated
+moisture: 77.97% (adc: 25686)
+Time:  (2021, 1, 1, 4, 19, 54, 54, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 19, 55, 56, 0)
+Pump deactivated
+moisture: 79.04% (adc: 25366)
+Time:  (2021, 1, 1, 4, 20, 41, 26, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 20, 42, 27, 0)
+Pump deactivated
+moisture: 78.66% (adc: 25782)
+Time:  (2021, 1, 1, 4, 21, 43, 8, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 21, 44, 9, 0)
+Pump deactivated
+moisture: 78.40% (adc: 25414)
+Time:  (2021, 1, 1, 4, 22, 29, 39, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 22, 30, 41, 0)
+Pump deactivated
+moisture: 78.72% (adc: 25526)
+Time:  (2021, 1, 1, 4, 22, 45, 52, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 22, 46, 53, 0)
+Pump deactivated
+moisture: 79.73% (adc: 25174)
+Time:  (2021, 1, 1, 4, 23, 47, 33, 0)
+Pump Triggered
+Time:  (2021, 1, 1, 4, 23, 48, 35, 0)
+Pump deactivated
+moisture: 79.30% (adc: 25110)
+Time:  (2021, 1, 2, 5, 0, 3, 46, 0)
+Pump Triggered
+Time:  (2021, 1, 2, 5, 0, 4, 47, 0)
+Pump deactivated
+moisture: 79.36% (adc: 24197)
+Time:  (2021, 1, 2, 5, 1, 20, 37, 0)
+Pump Triggered
+Time:  (2021, 1, 2, 5, 1, 21, 39, 0)
+Pump deactivated
+moisture: 79.94% (adc: 23861)
+Time:  (2021, 1, 2, 5, 1, 52, 0, 0)
+Pump Triggered
+Time:  (2021, 1, 2, 5, 1, 53, 1, 0)
+Pump deactivated
+moisture: 79.51% (adc: 23829)
+Time:  (2021, 1, 2, 5, 3, 24, 1, 0)
+Pump Triggered
+Time:  (2021, 1, 2, 5, 3, 25, 2, 0)
+Pump deactivated
+moisture: 79.89% (adc: 23973)
+Time:  (2021, 1, 2, 5, 4, 10, 33, 0)
+Pump Triggered
+Time:  (2021, 1, 2, 5, 4, 11, 34, 0)
+Pump deactivated
+moisture: 79.78% (adc: 23749)
+Time:  (2021, 1, 2, 5, 4, 57, 5, 0)
+Pump Triggered
+Time:  (2021, 1, 2, 5, 4, 58, 6, 0)
+Pump deactivated
+moisture: 79.30% (adc: 23989)
+Time:  (2021, 1, 2, 5, 8, 0, 5, 0)
+Pump Triggered
+Time:  (2021, 1, 2, 5, 8, 1, 6, 0)
+Pump deactivated
+moisture: 78.82% (adc: 24598)
+Time:  (2021, 1, 2, 5, 12, 3, 43, 0)
+Pump Triggered
+Time:  (2021, 1, 2, 5, 12, 4, 45, 0)
+Pump deactivated
+moisture: 79.78% (adc: 25366)
+Time:  (2021, 1, 2, 5, 13, 5, 25, 0)
+Pump Triggered
+Time:  (2021, 1, 2, 5, 13, 6, 27, 0)
+Pump deactivated
+moisture: 79.09% (adc: 25350)
+Time:  (2021, 1, 2, 5, 14, 52, 36, 0)
+Pump Triggered
+Time:  (2021, 1, 2, 5, 14, 53, 38, 0)
+Pump deactivated
+moisture: 79.89% (adc: 25174)
+Time:  (2021, 1, 2, 5, 15, 54, 18, 0)
+Pump Triggered
+Time:  (2021, 1, 2, 5, 15, 55, 20, 0)
+Pump deactivated
+moisture: 79.83% (adc: 23477)
+Time:  (2021, 1, 2, 5, 17, 56, 38, 0)
+Pump Triggered
+Time:  (2021, 1, 2, 5, 17, 57, 40, 0)
+Pump deactivated
+moisture: 79.51% (adc: 24165)
+Time:  (2021, 1, 2, 5, 22, 30, 36, 0)
+Pump Triggered
+Time:  (2021, 1, 2, 5, 22, 31, 37, 0)
+Pump deactivated
+moisture: 78.50% (adc: 23605)
+Time:  (2021, 1, 3, 6, 1, 18, 25, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 1, 19, 26, 0)
+Pump deactivated
+moisture: 79.09% (adc: 25494)
+Time:  (2021, 1, 3, 6, 2, 50, 26, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 2, 51, 27, 0)
+Pump deactivated
+moisture: 79.09% (adc: 24886)
+Time:  (2021, 1, 3, 6, 3, 36, 57, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 3, 37, 58, 0)
+Pump deactivated
+moisture: 79.99% (adc: 23493)
+Time:  (2021, 1, 3, 6, 5, 39, 17, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 5, 40, 18, 0)
+Pump deactivated
+moisture: 79.73% (adc: 25014)
+Time:  (2021, 1, 3, 6, 6, 25, 49, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 6, 26, 50, 0)
+Pump deactivated
+moisture: 79.99% (adc: 25430)
+Time:  (2021, 1, 3, 6, 8, 12, 59, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 8, 14, 0, 0)
+Pump deactivated
+moisture: 78.82% (adc: 24405)
+Time:  (2021, 1, 3, 6, 8, 29, 11, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 8, 30, 12, 0)
+Pump deactivated
+moisture: 79.73% (adc: 23957)
+Time:  (2021, 1, 3, 6, 9, 15, 43, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 9, 16, 44, 0)
+Pump deactivated
+moisture: 79.04% (adc: 25526)
+Time:  (2021, 1, 3, 6, 9, 47, 5, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 9, 48, 6, 0)
+Pump deactivated
+moisture: 78.03% (adc: 25174)
+Time:  (2021, 1, 3, 6, 11, 19, 6, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 11, 20, 7, 0)
+Pump deactivated
+moisture: 79.78% (adc: 25398)
+Time:  (2021, 1, 3, 6, 12, 20, 47, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 12, 21, 48, 0)
+Pump deactivated
+moisture: 78.61% (adc: 23205)
+Time:  (2021, 1, 3, 6, 12, 37, 0, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 12, 38, 1, 0)
+Pump deactivated
+moisture: 79.30% (adc: 24726)
+Time:  (2021, 1, 3, 6, 13, 53, 51, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 13, 54, 52, 0)
+Pump deactivated
+moisture: 77.44% (adc: 25750)
+Time:  (2021, 1, 3, 6, 15, 10, 42, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 15, 11, 43, 0)
+Pump deactivated
+moisture: 78.82% (adc: 25734)
+Time:  (2021, 1, 3, 6, 15, 42, 4, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 15, 43, 5, 0)
+Pump deactivated
+moisture: 79.14% (adc: 23573)
+Time:  (2021, 1, 3, 6, 17, 44, 25, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 17, 45, 26, 0)
+Pump deactivated
+moisture: 79.25% (adc: 24886)
+Time:  (2021, 1, 3, 6, 18, 46, 6, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 18, 47, 8, 0)
+Pump deactivated
+moisture: 79.46% (adc: 25238)
+Time:  (2021, 1, 3, 6, 20, 2, 58, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 20, 3, 59, 0)
+Pump deactivated
+moisture: 78.56% (adc: 23573)
+Time:  (2021, 1, 3, 6, 20, 34, 20, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 20, 35, 21, 0)
+Pump deactivated
+moisture: 79.99% (adc: 25046)
+Time:  (2021, 1, 3, 6, 22, 6, 21, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 22, 7, 23, 0)
+Pump deactivated
+moisture: 79.14% (adc: 25878)
+Time:  (2021, 1, 3, 6, 23, 8, 3, 0)
+Pump Triggered
+Time:  (2021, 1, 3, 6, 23, 9, 4, 0)
+Pump deactivated
+moisture: 78.40% (adc: 25574)
+Time:  (2021, 1, 4, 0, 0, 40, 4, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 0, 41, 6, 0)
+Pump deactivated
+moisture: 78.29% (adc: 25078)
+Time:  (2021, 1, 4, 0, 0, 56, 17, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 0, 57, 18, 0)
+Pump deactivated
+moisture: 78.24% (adc: 23397)
+Time:  (2021, 1, 4, 0, 1, 12, 30, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 1, 13, 31, 0)
+Pump deactivated
+moisture: 79.36% (adc: 25254)
+Time:  (2021, 1, 4, 0, 1, 43, 52, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 1, 44, 54, 0)
+Pump deactivated
+moisture: 77.28% (adc: 25878)
+Time:  (2021, 1, 4, 0, 2, 45, 34, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 2, 46, 36, 0)
+Pump deactivated
+moisture: 78.88% (adc: 25222)
+Time:  (2021, 1, 4, 0, 3, 47, 16, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 3, 48, 17, 0)
+Pump deactivated
+moisture: 76.91% (adc: 24197)
+Time:  (2021, 1, 4, 0, 4, 3, 28, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 4, 4, 29, 0)
+Pump deactivated
+moisture: 78.19% (adc: 25798)
+Time:  (2021, 1, 4, 0, 5, 35, 29, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 5, 36, 30, 0)
+Pump deactivated
+moisture: 79.04% (adc: 26150)
+Time:  (2021, 1, 4, 0, 7, 7, 29, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 7, 8, 30, 0)
+Pump deactivated
+moisture: 79.14% (adc: 26502)
+Time:  (2021, 1, 4, 0, 8, 24, 20, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 8, 25, 21, 0)
+Pump deactivated
+moisture: 79.14% (adc: 24245)
+Time:  (2021, 1, 4, 0, 8, 40, 32, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 8, 41, 33, 0)
+Pump deactivated
+moisture: 76.91% (adc: 25574)
+Time:  (2021, 1, 4, 0, 9, 11, 54, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 9, 12, 55, 0)
+Pump deactivated
+moisture: 76.38% (adc: 26374)
+Time:  (2021, 1, 4, 0, 9, 28, 6, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 9, 29, 7, 0)
+Pump deactivated
+moisture: 58.20% (adc: 34440)
+Time:  (2021, 1, 4, 0, 9, 59, 28, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 10, 0, 29, 0)
+Pump deactivated
+moisture: 30.23% (adc: 33512)
+Time:  (2021, 1, 4, 0, 10, 15, 40, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 10, 16, 41, 0)
+Pump deactivated
+moisture: 78.03% (adc: 23701)
+Time:  (2021, 1, 4, 0, 10, 31, 52, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 10, 32, 53, 0)
+Pump deactivated
+moisture: 77.44% (adc: 23877)
+Time:  (2021, 1, 4, 0, 11, 3, 14, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 11, 4, 15, 0)
+Pump deactivated
+moisture: 76.43% (adc: 23957)
+Time:  (2021, 1, 4, 0, 11, 19, 26, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 11, 20, 27, 0)
+Pump deactivated
+moisture: 33.52% (adc: 34280)
+Time:  (2021, 1, 4, 0, 12, 5, 58, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 12, 6, 59, 0)
+Pump deactivated
+moisture: 76.11% (adc: 28935)
+Time:  (2021, 1, 4, 0, 12, 22, 10, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 12, 23, 11, 0)
+Pump deactivated
+moisture: 54.52% (adc: 29735)
+Time:  (2021, 1, 4, 0, 12, 38, 23, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 12, 39, 24, 0)
+Pump deactivated
+moisture: 56.55% (adc: 32295)
+Time:  (2021, 1, 4, 0, 12, 54, 35, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 12, 55, 36, 0)
+Pump deactivated
+moisture: 47.14% (adc: 34344)
+Time:  (2021, 1, 4, 0, 13, 10, 47, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 13, 11, 49, 0)
+Pump deactivated
+moisture: 68.40% (adc: 29991)
+Time:  (2021, 1, 4, 0, 13, 27, 0, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 13, 28, 1, 0)
+Pump deactivated
+moisture: 60.59% (adc: 28358)
+Time:  (2021, 1, 4, 0, 13, 43, 12, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 13, 44, 14, 0)
+Pump deactivated
+moisture: 65.43% (adc: 29911)
+Time:  (2021, 1, 4, 0, 13, 59, 25, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 14, 0, 26, 0)
+Pump deactivated
+moisture: 57.82% (adc: 27926)
+Time:  (2021, 1, 4, 0, 14, 15, 37, 0)
+Pump Triggered
+Time:  (2021, 1, 4, 0, 14, 16, 39, 0)
+Pump deactivated
+moisture: 45.28% (adc: 46315)
+Time:  (2021, 1, 1, 4, 0, 0, 5, 0)
+Pump Triggered
+Traceback (most recent call last):
+  File "main.py", line 674, in <module>
+KeyboardInterrupt: 
+MicroPython v1.22.2 on 2024-02-22; Raspberry Pi Pico W with RP2040
+Type "help()" for more information.
+>>> 
+>>> 
+>>> 
+raw REPL; CTRL-B to exit
+>raw REPL; CTRL-B to exit
+>
